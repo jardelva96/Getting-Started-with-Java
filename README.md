@@ -37,7 +37,7 @@ public class DataTypes {
 Java provides several control flow statements for decision making and looping:
 
 ## If-Else Statement
-```
+
 ```java
 public class IfElse {
     public static void main(String[] args) {
