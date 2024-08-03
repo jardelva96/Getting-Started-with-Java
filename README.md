@@ -65,7 +65,7 @@ Java is an object-oriented programming (OOP) language. Key OOP concepts include 
 
 ## Classes and Objects
 A class is a blueprint for creating objects. An object is an instance of a class.
-```
+
 ```java
 public class Dog {
     String breed;
